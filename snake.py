@@ -66,6 +66,10 @@ class Snake:
         """Move the head to a different cell (used when wrapping around walls)."""
         self.body[0] = new_head
 
+    def get_direction(self):
+        """Return the current direction as a string."""
+        return self.direction
+
     def get_head(self):
         """Return the (y, x) position of the head."""
         return self.body[0]
