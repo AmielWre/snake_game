@@ -10,7 +10,7 @@ WIDTH = 40
 HEIGHT = 20
 
 # Speed: milliseconds per frame (lower = faster)
-INITIAL_SPEED = 150
+INITIAL_SPEED = 100
 SPEED_INCREMENT = 10   # how many ms faster each new level is
 MIN_SPEED = 50         # the game never gets faster than this
 LEVEL_UP_SCORE = 5     # points needed for each level up

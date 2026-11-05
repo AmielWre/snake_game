@@ -46,6 +46,9 @@ def wrap_position(pos):
     # % (modulo) turns -1 into the last row/column and HEIGHT/WIDTH into 0
     return (y % config.HEIGHT, x % config.WIDTH)
 
+def blabla():
+    pass
+
 
 def play_round(stdscr, renderer):
     """Play one game until the snake dies. Return (score, player_quit)."""
