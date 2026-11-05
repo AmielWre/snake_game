@@ -10,10 +10,10 @@ WIDTH = 40
 HEIGHT = 20
 
 # Speed: milliseconds per frame (lower = faster)
-INITIAL_SPEED = 120
+INITIAL_SPEED = 150
 SPEED_INCREMENT = 8   # how many ms faster each new level is
 MIN_SPEED = 50         # the game never gets faster than this
-LEVEL_UP_SCORE = 5     # points needed for each level up
+LEVEL_UP_SCORE = 3     # points needed for each level up
 
 # If True, the snake comes out the other side instead of dying at a wall
 WRAP_AROUND = False
@@ -31,3 +31,5 @@ BORDER_COLOR = "blue"
 SCORE_COLOR = "red"
 
 # commit 1
+# commit 2
+# commit 3
