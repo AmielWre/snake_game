@@ -8,6 +8,7 @@ env/
 .venv/
 
 # Game runtime files
+*.txt
 
 # OS
 .DS_Store
