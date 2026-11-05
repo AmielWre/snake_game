@@ -29,3 +29,5 @@ SNAKE_COLOR = "green"
 FOOD_COLOR = "red"
 BORDER_COLOR = "blue"
 SCORE_COLOR = "red"
+
+# commit 1
